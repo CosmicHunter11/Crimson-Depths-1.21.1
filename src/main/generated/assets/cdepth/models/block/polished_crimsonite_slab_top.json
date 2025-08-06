@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "cdepth:block/polished_crimsonite",
+    "side": "cdepth:block/polished_crimsonite",
+    "top": "cdepth:block/polished_crimsonite"
+  }
+}

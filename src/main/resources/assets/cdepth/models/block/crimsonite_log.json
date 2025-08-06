@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "cdepth:block/crimsonite_log_top",
+    "side": "cdepth:block/crimsonite_log"
+  }
+}

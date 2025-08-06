@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cobbled_crimsonite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "cdepth:cobbled_crimsonite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "cdepth:polished_crimsonite_stairs_from_cobbled_crimsonite_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cobbled_crimsonite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "cdepth:polished_crimsonite_stairs_from_cobbled_crimsonite_stonecutting"
+    ]
+  }
+}

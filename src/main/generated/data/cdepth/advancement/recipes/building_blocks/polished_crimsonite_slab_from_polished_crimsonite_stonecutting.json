@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_polished_crimsonite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "cdepth:polished_crimsonite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "cdepth:polished_crimsonite_slab_from_polished_crimsonite_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_polished_crimsonite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "cdepth:polished_crimsonite_slab_from_polished_crimsonite_stonecutting"
+    ]
+  }
+}

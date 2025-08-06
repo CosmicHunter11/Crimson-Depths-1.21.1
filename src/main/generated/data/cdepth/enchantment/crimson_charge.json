@@ -1,0 +1,39 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.cdepth.crimson_charge"
+  },
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "affected": "victim",
+        "effect": {
+          "type": "cdepth:crimson_charge"
+        },
+        "enchanted": "attacker"
+      },
+      {
+        "affected": "victim",
+        "effect": {
+          "type": "cdepth:crimson_charge_damaged"
+        },
+        "enchanted": "victim"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 0
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 3,
+    "per_level_above_first": 0
+  },
+  "primary_items": "#cdepth:enchantable/crimsonite_longsword",
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#cdepth:enchantable/crimsonite_longsword",
+  "weight": 5
+}

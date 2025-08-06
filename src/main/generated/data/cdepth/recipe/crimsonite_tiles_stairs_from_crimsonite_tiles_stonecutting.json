@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cdepth:crimsonite_tiles"
+  },
+  "result": {
+    "count": 1,
+    "id": "cdepth:crimsonite_tiles_stairs"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": {"model": "cdepth:block/crimsonite_bulb_on"},
+    "lit=false": {"model": "cdepth:block/crimsonite_bulb_off"}
+  }
+}

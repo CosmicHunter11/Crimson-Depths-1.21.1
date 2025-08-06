@@ -1,0 +1,65 @@
+{
+  "itemgroup.cdepth.crimsonite_items": "Crimson Depths",
+
+  "item.cdepth.impure_crimsonite_ingot": "Impure Crimsonite Ingot",
+  "item.cdepth.crimsonite_ingot": "Crimsonite Ingot",
+  "item.cdepth.heated_netherite_scrap": "Heated Netherite Scraps",
+  "item.cdepth.crimslin_spawn_egg": "Crimslin Spawn Egg",
+
+  "item.cdepth.crimsonite_longsword": "Crimsonite Longsword",
+  "item.cdepth.crimsonite_parasoul": "Crimsonite Parasoul",
+  "item.cdepth.crimsonite_launcher": "Crimsonite Launcher",
+  "item.cdepth.crimsonite_helmet" : "Crimsonite Helmet",
+  "item.cdepth.crimsonite_chestplate" : "Crimsonite Chestplate",
+  "item.cdepth.crimsonite_leggings" : "Crimsonite Leggings",
+  "item.cdepth.crimsonite_boots" : "Crimsonite Boots",
+
+  "block.cdepth.crimsonite_block" : "Block of Crimsonite",
+  "block.cdepth.fraud_plushie" : "Fraudulent Plushie",
+  "block.cdepth.chiseled_crimsonite" : "Chiseled Crimsonite",
+  "block.cdepth.crimsonite_log" : "Crimsonite Log",
+  "block.cdepth.crimsonite_wood" : "Crimsonite Wood",
+  "block.cdepth.crimsonite_bulb" : "Crimsonite Bulb",
+  "block.cdepth.crimsonite_roots" : "Crimsonite Roots",
+  "block.cdepth.crimsonite_leaves" : "Crimsonite Leaves",
+
+  "block.cdepth.cobbled_crimsonite" : "Cobbled Crimsonite",
+  "block.cdepth.cobbled_crimsonite_stairs" : "Cobbled Crimsonite Stairs",
+  "block.cdepth.cobbled_crimsonite_slab" : "Cobbled Crimsonite Slab",
+
+  "block.cdepth.polished_crimsonite" : "Polished Crimsonite",
+  "block.cdepth.polished_crimsonite_stairs" : "Polished Crimsonite Stairs",
+  "block.cdepth.polished_crimsonite_slab" : "Polished Crimsonite Slab",
+
+  "block.cdepth.crimsonite_bricks" : "Crimsonite Bricks",
+  "block.cdepth.crimsonite_bricks_stairs" : "Crimsonite Bricks Stairs",
+  "block.cdepth.crimsonite_bricks_slab" : "Crimsonite Bricks Slab",
+
+  "block.cdepth.crimsonite_tiles" : "Crimsonite Tiles",
+  "block.cdepth.crimsonite_tiles_stairs" : "Crimsonite Tiles Stairs",
+  "block.cdepth.crimsonite_tiles_slab" : "Crimsonite Tiles Slab",
+
+  "sounds.cdepth.crimsonite_cast" : "Crimson Cast",
+  "sounds.cdepth.crimsonite_launcher_charges" : "Crimsonite Launcher Charges",
+  "sounds.cdepth.parasoul_dash" : "Parasoul Dashes",
+  "sounds.cdepth.fraud_plushie_squeak" : "Fraudulent Plushie Frauds",
+  "sounds.cdepth.crimson_slice": "Crimson Slice",
+  "sounds.cdepth.crimsonite_longsword_crit": "Crimsonite Longsword Slashes",
+  "sounds.cdepth.crimsonite_longsword_crit_heavy": "Crimsonite Longsword Slashes",
+  "sounds.cdepth.crimslin_idle": "Crimslin Broods",
+  "sounds.cdepth.crimslin_hurt": "Crimslin Weeps",
+  "sounds.cdepth.crimslin_died": "Crimslin Descends",
+  "sounds.cdepth.crimson_explosion": "Crimsonite Explosion",
+
+  "enchantment.cdepth.burst": "Burst",
+  "enchantment.cdepth.burst.desc" : "Dash significantly further, with the cost a longer windup and cooldown",
+  "enchantment.cdepth.eternal_flame" : "Eternal Flame",
+  "enchantment.cdepth.eternal_flame.desc" : "Ignites mobs for a considerably long time upon first hit, after which each hit applies darkness",
+  "enchantment.cdepth.crimson_charge" : "Crimson Charge",
+  "enchantment.cdepth.crimson_charge.desc" : "Attacking consecutively will charge up CRIMSON damage, applying debuffs to your target based on the amount of consecutive hits, up to 3 hits",
+  "entity.cdepth.crimslin": "Crimslin",
+  "death.attack.crimson_soul_charge": "%1$s took an explosion point blank",
+
+  "advancements.nether.crimsonite_armor.title": "Paint the world CRIMSON",
+  "advancements.nether.crimsonite_armor.description": "Don't let them escape."
+}

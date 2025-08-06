@@ -1,0 +1,71 @@
+{
+  "crimson_slice": {
+    "subtitle": "sounds.cdepth.crimson_slice",
+    "sounds": [
+      "cdepth:crimson_slice1",
+      "cdepth:crimson_slice2"
+    ]
+  },
+  "crimsonite_longsword_crit": {
+    "subtitle": "sounds.cdepth.crimsonite_longsword_crit",
+    "sounds": [
+      "cdepth:crimsonite_longsword_crit"
+    ]
+  },
+  "crimsonite_longsword_crit_heavy": {
+    "subtitle": "sounds.cdepth.crimsonite_longsword_crit_heavy",
+    "sounds": [
+      "cdepth:crimsonite_longsword_crit_heavy"
+    ]
+  },
+  "crimslin_idle": {
+    "subtitle": "sounds.cdepth.crimslin_idle",
+    "sounds": [
+      "cdepth:crimslin_idle1",
+      "cdepth:crimslin_idle2"
+    ]
+  },
+  "crimslin_hurt": {
+    "subtitle": "sounds.cdepth.crimslin_hurt",
+    "sounds": [
+      "cdepth:crimslin_hurt1",
+      "cdepth:crimslin_hurt2"
+    ]
+  },
+  "crimslin_died": {
+    "subtitle": "sounds.cdepth.crimslin_died",
+    "sounds": [
+      "cdepth:crimslin_died"
+    ]
+  },
+  "fraud_plushie_squeak": {
+    "subtitle": "sounds.cdepth.fraud_plushie_squeak",
+    "sounds": [
+      "cdepth:fraud_plushie_squeak"
+    ]
+  },
+  "parasoul_dash": {
+    "subtitle": "sounds.cdepth.parasoul_dash",
+    "sounds": [
+      "cdepth:parasoul_dash"
+    ]
+  },
+  "crimsonite_cast": {
+    "subtitle": "sounds.cdepth.crimsonite_cast",
+    "sounds": [
+      "cdepth:crimsonite_cast"
+    ]
+  },
+  "crimson_explosion": {
+    "subtitle": "sounds.cdepth.crimson_explosion",
+    "sounds": [
+      "cdepth:crimson_explosion"
+    ]
+  },
+  "crimsonite_launcher_charges": {
+    "subtitle": "sounds.cdepth.crimsonite_launcher_charges",
+    "sounds": [
+      "cdepth:crimsonite_launcher_charges"
+    ]
+  }
+}

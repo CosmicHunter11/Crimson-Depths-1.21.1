@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.cosmic.cdepth.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ModelLoaderMixin",
+		"ItemRendererMixin",
+		"PlayerEntityMixin",
+		"PlayerEntityRendererMixin",
+		"PlayerHeldItemFeatureRendererMixin"
+	],
+	"injectors": {"defaultRequire": 1},
+	"overwrites": {"requireAnnotations": true}
+}

@@ -1,0 +1,14 @@
+// 1.21.1	2025-08-06T11:39:07.942544	CDepth/Tags for minecraft:item
+92bc9e689878ff5f50a9a721fd43050061db3626 data\minecraft\tags\item\swords.json
+f62f8f1f9438a9b8beae8a2d3279ce31929d0069 data\minecraft\tags\item\enchantable\leg_armor.json
+4e9d3f5e45fb8855bcddf116350e53342a6d636f data\minecraft\tags\item\enchantable\head_armor.json
+9793d9698eee126f717d01364c730eca2a33786e data\minecraft\tags\item\enchantable\mining.json
+f62f8f1f9438a9b8beae8a2d3279ce31929d0069 data\minecraft\tags\item\leg_armor.json
+0ffe4fadceaf8c24eca17fcbc808a9eb8e591a6a data\cdepth\tags\item\enchantable\parasoul.json
+ba2fc10f4ae70f75c6b3f343612d258270b8e252 data\minecraft\tags\item\enchantable\foot_armor.json
+849363fff93b89c0cc6cc06e39357b9b241b624f data\minecraft\tags\item\chest_armor.json
+2367126847b27c0746e5ca2fa8f2dc8df9cf3695 data\minecraft\tags\item\enchantable\durability.json
+92bc9e689878ff5f50a9a721fd43050061db3626 data\cdepth\tags\item\enchantable\crimsonite_longsword.json
+ba2fc10f4ae70f75c6b3f343612d258270b8e252 data\minecraft\tags\item\foot_armor.json
+849363fff93b89c0cc6cc06e39357b9b241b624f data\minecraft\tags\item\enchantable\chest_armor.json
+4e9d3f5e45fb8855bcddf116350e53342a6d636f data\minecraft\tags\item\head_armor.json

@@ -1,0 +1,32 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.cdepth.burst"
+  },
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "affected": "victim",
+        "effect": {
+          "type": "cdepth:burst"
+        },
+        "enchanted": "attacker"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 0
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 3,
+    "per_level_above_first": 0
+  },
+  "primary_items": "#cdepth:enchantable/parasoul",
+  "slots": [
+    "hand"
+  ],
+  "supported_items": "#cdepth:enchantable/parasoul",
+  "weight": 5
+}

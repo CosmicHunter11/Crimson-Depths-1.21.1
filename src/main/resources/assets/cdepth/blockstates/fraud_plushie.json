@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "cdepth:block/fraud_plushie"},
+    "facing=east": {"model": "cdepth:block/fraud_plushie", "y": 90},
+    "facing=south": {"model": "cdepth:block/fraud_plushie", "y": 180 },
+    "facing=west": {"model": "cdepth:block/fraud_plushie", "y": 270}
+  }
+}

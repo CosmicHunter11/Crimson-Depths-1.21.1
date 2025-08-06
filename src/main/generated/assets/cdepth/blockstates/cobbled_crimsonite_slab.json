@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cdepth:block/cobbled_crimsonite_slab"
+    },
+    "type=double": {
+      "model": "cdepth:block/cobbled_crimsonite"
+    },
+    "type=top": {
+      "model": "cdepth:block/cobbled_crimsonite_slab_top"
+    }
+  }
+}

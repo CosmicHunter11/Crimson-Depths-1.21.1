@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "cdepth:cobbled_crimsonite"
+    },
+    "D": {
+      "item": "minecraft:diamond_sword"
+    },
+    "H": {
+      "item": "cdepth:heated_netherite_scrap"
+    },
+    "I": {
+      "item": "cdepth:crimsonite_ingot"
+    },
+    "W": {
+      "item": "minecraft:nether_wart"
+    }
+  },
+  "pattern": [
+    " WI",
+    "HCW",
+    "DH "
+  ],
+  "result": {
+    "count": 1,
+    "id": "cdepth:crimsonite_longsword"
+  }
+}

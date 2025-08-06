@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "cdepth:block/crimsonite_bulb_top",
+    "east": "cdepth:block/crimsonite_bulb_front_on",
+    "north": "cdepth:block/crimsonite_bulb_front_on",
+    "particle": "cdepth:block/crimsonite_bulb_top",
+    "south": "cdepth:block/crimsonite_bulb_front_on",
+    "up": "cdepth:block/crimsonite_bulb_top",
+    "west": "cdepth:block/crimsonite_bulb_front_on"
+  }
+}

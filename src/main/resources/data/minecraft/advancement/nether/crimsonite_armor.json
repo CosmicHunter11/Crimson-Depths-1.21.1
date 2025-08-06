@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:nether/obtain_ancient_debris",
+  "criteria": {
+    "crimsonite_armor": {
+      "conditions": {
+        "items": [
+          {"items": "cdepth:crimsonite_helmet"},
+          {"items": "cdepth:crimsonite_chestplate"},
+          {"items": "cdepth:crimsonite_leggings"},
+          {"items": "cdepth:crimsonite_boots"}
+        ]
+      }, "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {"translate": "advancements.nether.crimsonite_armor.description"},
+    "frame": "challenge",
+    "icon": {"count": 1, "id": "cdepth:crimsonite_longsword"},
+    "title": {"translate": "advancements.nether.crimsonite_armor.title", "color": "red"}
+  },
+  "announce_to_chat": false,
+  "hidden": true,
+  "requirements": [["crimsonite_armor"]],
+  "rewards": {"experience": 100},
+  "sends_telemetry_event": true
+}

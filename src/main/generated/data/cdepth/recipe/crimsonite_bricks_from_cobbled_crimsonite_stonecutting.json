@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cdepth:cobbled_crimsonite"
+  },
+  "result": {
+    "count": 1,
+    "id": "cdepth:crimsonite_bricks"
+  }
+}

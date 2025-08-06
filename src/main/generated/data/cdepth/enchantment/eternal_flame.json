@@ -1,0 +1,32 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.cdepth.eternal_flame"
+  },
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "affected": "victim",
+        "effect": {
+          "type": "cdepth:eternal_flame"
+        },
+        "enchanted": "attacker"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 0
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 3,
+    "per_level_above_first": 0
+  },
+  "primary_items": "#cdepth:enchantable/crimsonite_longsword",
+  "slots": [
+    "hand"
+  ],
+  "supported_items": "#cdepth:enchantable/crimsonite_longsword",
+  "weight": 5
+}

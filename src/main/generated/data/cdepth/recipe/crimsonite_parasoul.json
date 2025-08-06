@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "cdepth:heated_netherite_scrap"
+    },
+    "I": {
+      "item": "cdepth:crimsonite_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "minecraft:nether_wart"
+    }
+  },
+  "pattern": [
+    "WIW",
+    "HSH",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "cdepth:crimsonite_parasoul"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "cdepth:block/crimsonite_tiles",
+    "side": "cdepth:block/crimsonite_tiles",
+    "top": "cdepth:block/crimsonite_tiles"
+  }
+}

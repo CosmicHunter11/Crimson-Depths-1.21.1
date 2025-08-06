@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:nether_wart_block"
+    },
+    "C": {
+      "item": "cdepth:cobbled_crimsonite"
+    },
+    "H": {
+      "item": "cdepth:heated_netherite_scrap"
+    },
+    "W": {
+      "item": "minecraft:nether_wart"
+    }
+  },
+  "pattern": [
+    "WHW",
+    "CBC",
+    "CHC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cdepth:crimsonite_launcher"
+  }
+}
